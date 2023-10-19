@@ -1,0 +1,12 @@
+#AJAX
+#(Asynchrous JavaScript and XML)
+registro > enviar > BD Inicio
+AJAX
+JavaScript > PHP > BD > PHP > JS
+> BD
+> Respuestas
+#echo string // Imprime cadenas
+#
+#No podemos imprimir 
+#array
+#object
